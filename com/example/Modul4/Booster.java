@@ -7,7 +7,10 @@ public class Booster {
     System.out.println("1 Dosis Moderna");
     }
     public static void astraZeneca(){
-        
+    System.out.println("Dosis Vaksin booster ada 3 macam yaitu: ");
+    System.out.println("1/2 Dosis Moderna");
+    System.out.println("1/2 Dosis Pfizer");
+    System.out.println("1 Dosis AstraZeneca");
     }
     public static void pfizer(){
         
