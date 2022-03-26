@@ -3,9 +3,14 @@ import java.util.Scanner;
 
 public class Tugas {
     public static void daftarVaksin(){
+        System.out.println("Vaksin Primer:");
         System.out.println("1. Sinovac");
         System.out.println("2. AstraZeneca");
         System.out.println("3. Pfizer");
+        System.out.println("4. Moderna");
+        System.out.println("5. Janssen");
+        System.out.println("6. Sinopharm");
+        System.out.println("7. Batalkan program");
     }
     public static String selesai(String text){
         return text;
