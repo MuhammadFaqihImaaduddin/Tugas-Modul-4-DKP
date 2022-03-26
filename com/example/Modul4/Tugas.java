@@ -3,7 +3,9 @@ import java.util.Scanner;
 
 public class Tugas {
     public static void daftarVaksin(){
-        
+        System.out.println("1. Sinovac");
+        System.out.println("2. AstraZeneca");
+        System.out.println("3. Pfizer");
     }
     public static String selesai(String text){
         return text;
