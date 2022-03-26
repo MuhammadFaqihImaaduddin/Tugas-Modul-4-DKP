@@ -27,12 +27,12 @@ public class Tugas {
             System.out.println("===================================================");
             if(i == 1){
                 System.out.println("Vaksin primer anda adalah Sinovac");
-                
+                vaksin.sinovac();
                 System.out.println("===================================================");
             }
             else if(i == 2){
                 System.out.println("Vaksin primer anda adalah AstraZeneca");
-                
+                vaksin.astraZeneca();
                 System.out.println("===================================================");
             }
             else if(i == 3){
@@ -42,7 +42,7 @@ public class Tugas {
             }
             else if(i == 4){
                 System.out.println("Vaksin primer anda adalah Moderna");
-                
+                Sysem.out.println(vaksin.moderna());
                 System.out.println("===================================================");
             }
             else if(i == 5){
